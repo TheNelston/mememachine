@@ -20,4 +20,14 @@ Then, paste this command in-
 python3 mememachine.py
 You're good to go! If you want to re-execute the program, hit the up arrow button once and press enter. If the program is stuck in some loop because you managed to fuck it up, or you just want to prematurely end the program, press Ctrl + C.
 
-If you have any issues hmu on DM's because this is my fucking baby and I wanna see it work like a charm!
+TO RUN DESPACITOMACHINE:
+Make sure you download ALL the .mp3 files in this repository, or else the program will NOT run.
+Navigate to your command line application of choice (Terminal, CMD Prompt, etc.) and type "pip install pygame"
+  If you need help with this Google it, I'm too lazy to include a full troubleshooting guide on pip package manager issues
+Then make sure you cd (change directory) into the right folder using the command:
+cd Downloads/mememachine-master
+Run the command:
+python3 despacitomachine.py
+Turn up the volume, and enjoy!
+
+If you have any issues hmu on DM's because I wanna see it work like a charm!
